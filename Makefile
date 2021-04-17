@@ -5,7 +5,7 @@ AS = nasm
 ASFLAGS = -f elf64
 
 CC = clang
-CFLAGS = -Wall -Werros -Wextra -fsanitize=address
+CFLAGS = -Wall -Werros -Wextra
 
 RM = rm -rf
 
