@@ -6,13 +6,12 @@
 /*   By: wbertoni <wbertoni@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/17 16:24:32 by wbertoni          #+#    #+#             */
-/*   Updated: 2021/04/17 16:25:16 by wbertoni         ###   ########.fr       */
+/*   Updated: 2021/04/17 17:43:01 by wbertoni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libasm.h"
 #include "main.h"
-
 
 static void	test_strlen2(char *str)
 {
